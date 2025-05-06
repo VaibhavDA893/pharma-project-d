@@ -24,10 +24,10 @@ The core objective of this dashboard is to:
 
  📊 Sales Overview: Displays total revenue, total units sold, and average price per unit.                      
                                                                                          🌍 Regional Analysis: Highlights sales distribution by state/city/region.
-                                                                                                                                                                                                                  💊 Top Drugs: Ranks best-selling drugs based on revenue and quantity.
-                                                                                                                                                                                                                  📅 Time Series Analysis: Monthly and yearly trends for better forecasting and seasonality checks.
-                                                                                                                                                                                                                  👥 Customer Segmentation: Understand who your top buyers are and how often they purchase.
-                                                                                                                                                                                                                  🎯 Target vs Actuals: Compares actual sales performance with predefined targets.
+                                                                                         💊 Top Drugs: Ranks best-selling drugs based on revenue and quantity.
+                                                                                         📅 Time Series Analysis: Monthly and yearly trends for better forecasting and seasonality checks.
+                                                                                        👥 Customer Segmentation: Understand who your top buyers are and how often they purchase.
+                                                                                         🎯 Target vs Actuals: Compares actual sales performance with predefined targets.
 
 
 
