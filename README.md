@@ -1,4 +1,4 @@
-💊 Pharma Drug Sales Analysis Dashboard - Power BI
+1. 💊 Pharma Drug Sales Analysis Dashboard - Power BI
 
 [Dashboard Screenshot](https://github.com/VaibhavDA893/assests/blob/main/Screenshot%202025-05-02%20171455.png)
 
